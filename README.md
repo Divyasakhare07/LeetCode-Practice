@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0180-consecutive-numbers) |
 | [0584-find-customer-referee](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0584-find-customer-referee) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
