@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1670-patients-with-a-condition](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1670-patients-with-a-condition) |
+| [1811-fix-names-in-a-table](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1811-fix-names-in-a-table) |
 | [2057-count-salary-categories](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/2057-count-salary-categories) |
 ## Array
 |  |
