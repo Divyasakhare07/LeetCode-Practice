@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1811-fix-names-in-a-table) |
+| [1974-find-customers-with-positive-revenue-this-year](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2057-count-salary-categories](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/2057-count-salary-categories) |
 ## Array
 |  |
