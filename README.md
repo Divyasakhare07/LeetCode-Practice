@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1670-patients-with-a-condition) |
+| [1718-warehouse-manager](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1718-warehouse-manager) |
 | [1749-sellers-with-no-sales](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1749-sellers-with-no-sales) |
 | [1811-fix-names-in-a-table](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1811-fix-names-in-a-table) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1974-find-customers-with-positive-revenue-this-year) |
