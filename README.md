@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1718-warehouse-manager](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1718-warehouse-manager) |
 | [1749-sellers-with-no-sales](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1749-sellers-with-no-sales) |
 | [1811-fix-names-in-a-table](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1811-fix-names-in-a-table) |
+| [1842-number-of-calls-between-two-persons](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1842-number-of-calls-between-two-persons) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/2024-calculate-special-bonus) |
