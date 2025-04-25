@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0607-sales-person) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1179-game-play-analysis-i) |
 | [1214-highest-grade-for-each-student](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1214-highest-grade-for-each-student) |
 | [1258-article-views-i](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1258-article-views-i) |
