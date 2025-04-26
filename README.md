@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-page-recommendations](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1399-page-recommendations) |
 | [1452-restaurant-growth](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1481-students-with-invalid-departments](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1481-students-with-invalid-departments) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1541-top-travellers](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1541-top-travellers) |
 | [1565-evaluate-boolean-expression](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1565-evaluate-boolean-expression) |
