@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-calculate-special-bonus](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/2057-count-salary-categories) |
+| [2110-employees-with-missing-information](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/2110-employees-with-missing-information) |
 ## Array
 |  |
 | ------- |
