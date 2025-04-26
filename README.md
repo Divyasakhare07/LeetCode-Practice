@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1339-team-scores-in-football-tournament](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1339-team-scores-in-football-tournament) |
 | [1399-page-recommendations](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1399-page-recommendations) |
+| [1438-find-the-team-size](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1438-find-the-team-size) |
 | [1452-restaurant-growth](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1481-students-with-invalid-departments](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1481-students-with-invalid-departments) |
