@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1837-daily-leads-and-partners) |
 | [1842-number-of-calls-between-two-persons](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1842-number-of-calls-between-two-persons) |
+| [1852-biggest-window-between-visits](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1852-biggest-window-between-visits) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1932-grand-slam-titles](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1932-grand-slam-titles) |
 | [1948-rearrange-products-table](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1948-rearrange-products-table) |
