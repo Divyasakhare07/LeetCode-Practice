@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0603-consecutive-available-seats](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0603-consecutive-available-seats) |
 | [0607-sales-person](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0608-tree-node) |
+| [0613-shortest-distance-in-a-line](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/0613-shortest-distance-in-a-line) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1163-project-employees-iii](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1163-project-employees-iii) |
 | [1179-game-play-analysis-i](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1179-game-play-analysis-i) |
