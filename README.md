@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1181-game-play-analysis-iii) |
+| [1182-game-play-analysis-iv](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1182-game-play-analysis-iv) |
 | [1214-highest-grade-for-each-student](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1214-highest-grade-for-each-student) |
 | [1258-article-views-i](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1278-product-price-at-a-given-date) |
