@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1339-team-scores-in-football-tournament](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1339-team-scores-in-football-tournament) |
+| [1357-report-contiguous-dates](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1357-report-contiguous-dates) |
 | [1399-page-recommendations](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1399-page-recommendations) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/Divyasakhare07/LeetCode-Practice/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
